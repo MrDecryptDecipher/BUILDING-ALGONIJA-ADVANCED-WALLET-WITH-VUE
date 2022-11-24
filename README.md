@@ -1,6 +1,4 @@
-**Open source algo wallet**
-
-The project was not funded by Algorand, please donate to the following address to keep the project evolving: P65LXHA5MEDMOJ2ZAITLZWYSU6W25BF2FCXJ5KQRDUB2NT2T7DPAAFYT3U 
+**ALGONIJA ADVANCED OPEN SOURCE WALLET WITH VUE**
 
 Currently working features:
 - Creating wallet / Export wallet / Import wallet / Destroying wallet
@@ -10,9 +8,18 @@ Currently working features:
 - Sending algo payment, Signing and sending multisig payments
 - Multilanguage support
 
-Source code: https://github.com/scholtz/wallet
+SPECIALI THANKS TO :https://github.com/scholtz/wallet
 Running at: https://www.a-wallet.net/
 
 Technology stack: Vue3, JsAlgoSDK, CICD to pure HTML+JS
+**PURELY FOR EDUCATIONAL PURPOSES**
 
-If anybody want to contribute please create a PR request
+USAGE:
+STEP 1: GIT CLONE THE REPO
+STEP 2: CD REPO
+STEP 3: NPM INIT
+STEP 4: NPM INSTALL --UNSAFE-PERM
+STEP 5: NPM RUN SERVE
+*******DONE********
+
+NOTE: IT IS A GOOD HABBIT TO DO: SUDO APT UPDATE 
